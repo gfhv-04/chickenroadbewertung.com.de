@@ -1,0 +1,11 @@
+name = "chickenroadbewertung-com-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chickenroadbewertung.com.de"
+HMAC_KEY = "09d62a1be62d4766ec361cb696a47496c18067a0595a9608a76c415a14bccab0"
+COOKIE_NAME = "x0c"
+PLAY_PATH = "begin"
+BUTTON_ID = "pad922bae0bb9a84a61a78befd1766d64"
+GATE_SALT = "fba31cb8fbe9ad9f"
